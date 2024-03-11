@@ -3,8 +3,9 @@
 
 
 
+const Auth = require('./Auth');
 
-
+const auth = new Auth();
 
 
 
