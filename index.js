@@ -1,6 +1,5 @@
 // Import Classes Here
-
-
+const Account = require('./Customer');
 
 
 
