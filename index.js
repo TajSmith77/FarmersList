@@ -4,8 +4,9 @@ const Cart = require('./classes/Cart.js')
 const Account = require('./classes/Customer.js');
 
 
+const Auth = require('./Auth');
 
-
+const auth = new Auth();
 
 
 
